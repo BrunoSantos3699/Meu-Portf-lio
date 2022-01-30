@@ -1,0 +1,3 @@
+Neste módulo de fundamentos aprendi um pouco sobre um famoso tipo de sistema operacional chamado UNIX. Depois de entender como os comandos funcionam e de já ter criado meus primeiros scripts, aprendi a usar o Git para guardá-los de forma segura.
+Dei ínicio ao Desenvolvimento Web. aprendi a estruturar documentos HTML , estilizá-los com o CSS e como criar comportamentos customizados com o JavaScript. Com esses conhecimentos aprendi a criar sites responsivos e com o CSS elegante.
+Aprendi também a como utilizar o JavaScript em sua plenitude, utilizando recursos avançados como HOF , Código assíncrono , Testes unitários entre outras coisas incríveis!
